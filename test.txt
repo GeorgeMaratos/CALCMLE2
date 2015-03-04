@@ -1,0 +1,657 @@
+Word: Finally Tag: RB 
+ MLE: 0.035714
+Word: after Tag: IN 
+ MLE: 0.016949
+Word: much Tag: JJ 
+ MLE: 0.034483
+Word: much Tag: RB 
+ MLE: 0.035714
+Word: anticipation Tag: NN 
+ MLE: 0.011494
+Word: , Tag: , 
+ MLE: 1.000000
+Word: the Tag: DT 
+ MLE: 0.447368
+Word: Nasdaq Tag: NNP 
+ MLE: 0.095238
+Word: Composite Tag: NNP 
+ MLE: 0.011905
+Word: Index Tag: NNP 
+ MLE: 0.023810
+Word: has Tag: VBZ 
+ MLE: 0.388889
+Word: closed Tag: VBN 
+ MLE: 0.076923
+Word: above Tag: IN 
+ MLE: 0.016949
+Word: 5,000 Tag: CD 
+ MLE: 0.016949
+Word: mark Tag: NN 
+ MLE: 0.011494
+Word: for Tag: IN 
+ MLE: 0.050847
+Word: first Tag: JJ 
+ MLE: 0.034483
+Word: time Tag: NN 
+ MLE: 0.022989
+Word: since Tag: IN 
+ MLE: 0.050847
+Word: March Tag: NNP 
+ MLE: 0.047619
+Word: 2000 Tag: CD 
+ MLE: 0.118644
+Word: and Tag: CC 
+ MLE: 0.736842
+Word: it Tag: PRP 
+ MLE: 0.136364
+Word: 's Tag: VBZ 
+ MLE: 0.222222
+Word: 's Tag: POS 
+ MLE: 1.000000
+Word: very Tag: RB 
+ MLE: 0.035714
+Word: near Tag: IN 
+ MLE: 0.016949
+Word: its Tag: PRP 
+ MLE: 0.272727
+Word: Internet Tag: NN 
+ MLE: 0.011494
+Word: bubble Tag: NN 
+ MLE: 0.045977
+Word: all-time Tag: JJ 
+ MLE: 0.034483
+Word: closing Tag: VBG 
+ MLE: 0.500000
+Word: high Tag: NN 
+ MLE: 0.011494
+Word: high Tag: JJ 
+ MLE: 0.034483
+Word: of Tag: IN 
+ MLE: 0.220339
+Word: 5048.62 Tag: CD 
+ MLE: 0.016949
+Word: . Tag: .
+ MLE: 1.000000
+Word: Of Tag: IN 
+ MLE: 0.016949
+Word: course Tag: NN 
+ MLE: 0.011494
+Word: that Tag: DT 
+ MLE: 0.105263
+Word: that Tag: WDT 
+ MLE: 0.250000
+Word: still Tag: RB 
+ MLE: 0.035714
+Word: way Tag: NN 
+ MLE: 0.011494
+Word: short Tag: JJ 
+ MLE: 0.034483
+Word: inflation-adjustJJ 
+ Tag: JJ 
+ MLE: 0.034483
+Word: peak Tag: NN 
+ MLE: 0.034483
+Word: which Tag: WDT 
+ MLE: 0.750000
+Word: would Tag: MD 
+ MLE: 1.000000
+Word: require Tag: VB 
+ MLE: 0.250000
+Word: an Tag: DT 
+ MLE: 0.078947
+Word: additional Tag: JJ 
+ MLE: 0.068966
+Word: gain Tag: NN 
+ MLE: 0.022989
+Word: more Tag: JJR 
+ MLE: 0.600000
+Word: more Tag: RBR 
+ MLE: 0.500000
+Word: than Tag: IN 
+ MLE: 0.118644
+Word: 2,000 Tag: CD 
+ MLE: 0.016949
+Word: points Tag: NNS 
+ MLE: 0.041667
+Word: as Tag: IN 
+ MLE: 0.050847
+Word: as Tag: RB 
+ MLE: 0.035714
+Word: Lance Tag: NNP
+ MLE: 0.333333
+Word: Roberts Tag: NNP 
+ MLE: 0.011905
+Word: STA Tag: NNP 
+ MLE: 0.011905
+Word: Wealth Tag: NNP 
+ MLE: 0.011905
+Word: Management Tag: NNP
+ MLE: 0.333333
+Word: wrote Tag: VBD 
+ MLE: 0.083333
+Word: recently Tag: RB 
+ MLE: 0.035714
+Word: But Tag: CC
+ MLE: 1.000000
+Word: But Tag: CC 
+ MLE: 0.052632
+Word: this Tag: DT 
+ MLE: 0.052632
+Word: column Tag: NN 
+ MLE: 0.011494
+Word: pointed Tag: VBD 
+ MLE: 0.083333
+Word: out Tag: RP 
+ MLE: 0.500000
+Word: last Tag: JJ 
+ MLE: 0.034483
+Word: September Tag: NNP 
+ MLE: 0.011905
+Word: recovered Tag: VBN 
+ MLE: 0.076923
+Word: at Tag: IN 
+ MLE: 0.067797
+Word: least Tag: JJS 
+ MLE: 0.500000
+Word: in Tag: IN 
+ MLE: 0.186441
+Word: nominal Tag: JJ 
+ MLE: 0.034483
+Word: terms Tag: NNS 
+ MLE: 0.041667
+Word: faster Tag: RBR 
+ MLE: 0.500000
+Word: any Tag: DT 
+ MLE: 0.026316
+Word: other Tag: JJ 
+ MLE: 0.034483
+Word: major Tag: JJ 
+ MLE: 0.034483
+Word: stock Tag: NN 
+ MLE: 0.022989
+Word: past Tag: JJ 
+ MLE: 0.034483
+Word: century Tag: NN 
+ MLE: 0.011494
+Word: Remember Tag: VB 
+ MLE: 0.250000
+Word: index Tag: NN 
+ MLE: 0.011494
+Word: lost Tag: VBD 
+ MLE: 0.083333
+Word: a Tag: DT 
+ MLE: 0.131579
+Word: mind-boggling Tag: JJ 
+ MLE: 0.034483
+Word: 78 Tag: CD 
+ MLE: 0.016949
+Word: % Tag: NN 
+ MLE: 0.310345
+Word: value Tag: NN 
+ MLE: 0.045977
+Word: from Tag: IN 
+ MLE: 0.033898
+Word: to Tag: TO 
+ MLE: 1.000000
+Word: October Tag: NNP 
+ MLE: 0.011905
+Word: 2002 Tag: CD 
+ MLE: 0.033898
+Word: taken Tag: VBN 
+ MLE: 0.076923
+Word: just Tag: RB 
+ MLE: 0.035714
+Word: about Tag: RB 
+ MLE: 0.035714
+Word: 15 Tag: CD 
+ MLE: 0.033898
+Word: years Tag: NNS 
+ MLE: 0.125000
+Word: get Tag: VB 
+ MLE: 0.250000
+Word: back Tag: RP 
+ MLE: 0.500000
+Word: back Tag: RB 
+ MLE: 0.071429
+Word: those Tag: DT 
+ MLE: 0.026316
+Word: heights Tag: NNS 
+ MLE: 0.041667
+Word: It Tag: PRP 
+ MLE: 0.090909
+Word: took Tag: VBD 
+ MLE: 0.083333
+Word: Dow Tag: NNP 
+ MLE: 0.011905
+Word: Jones Tag: NNP
+ MLE: 0.333333
+Word: Industrial Tag: NNP 
+ MLE: 0.011905
+Word: Average Tag: NNP 
+ MLE: 0.011905
+Word: 25 Tag: CD 
+ MLE: 0.033898
+Word: match Tag: VB 
+ MLE: 0.250000
+Word: 1929 Tag: CD 
+ MLE: 0.016949
+Word: highs Tag: NNS 
+ MLE: 0.041667
+Word: Tokyo Tag: NNP 
+ MLE: 0.011905
+Word: Nikkei Tag: NNP 
+ MLE: 0.011905
+Word: is Tag: VBZ 
+ MLE: 0.277778
+Word: n't Tag: RB 
+ MLE: 0.107143
+Word: even Tag: RB 
+ MLE: 0.107143
+Word: half Tag: NN 
+ MLE: 0.011494
+Word: 39,000 Tag: CD 
+ MLE: 0.016949
+Word: nosebleed Tag: JJ 
+ MLE: 0.034483
+Word: December Tag: NNP 
+ MLE: 0.011905
+Word: 1989 Tag: CD 
+ MLE: 0.016949
+Word: quarter-century Tag: NN 
+ MLE: 0.011494
+Word: ago Tag: RB 
+ MLE: 0.035714
+Word: True Tag: UH 
+ MLE: 1.000000
+Word: your Tag: PRP$ 
+ MLE: 1.000000
+Word: big Tag: JJ 
+ MLE: 0.034483
+Word: brother Tag: NN 
+ MLE: 0.011494
+Word: or Tag: CC 
+ MLE: 0.052632
+Word: sister Tag: NN 
+ MLE: 0.011494
+Word: many Tag: RB 
+ MLE: 0.035714
+Word: fewer Tag: JJR 
+ MLE: 0.200000
+Word: companies Tag: NNS 
+ MLE: 0.125000
+Word: traded Tag: VBN 
+ MLE: 0.076923
+Word: their Tag: PRP 
+ MLE: 0.181818
+Word: average Tag: JJ 
+ MLE: 0.034483
+Word: market Tag: NN 
+ MLE: 0.068966
+Word: capitalization Tag: NN 
+ MLE: 0.022989
+Word: almost Tag: RB 
+ MLE: 0.107143
+Word: twice Tag: RB 
+ MLE: 0.035714
+Word: median Tag: JJ 
+ MLE: 0.034483
+Word: age Tag: NN 
+ MLE: 0.011494
+Word: vs. Tag: CC 
+ MLE: 0.052632
+Word: And Tag: CC 
+ MLE: 0.105263
+Word: some Tag: DT 
+ MLE: 0.052632
+Word: stalwarts Tag: NNS 
+ MLE: 0.083333
+Word: are Tag: VBP 
+ MLE: 0.200000
+Word: shadows Tag: NNS 
+ MLE: 0.041667
+Word: former Tag: JJ 
+ MLE: 0.034483
+Word: selves Tag: NNS 
+ MLE: 0.041667
+Word: Microsoft Tag: NNP 
+ MLE: 0.011905
+Word: MSFT Tag: NNP 
+ MLE: 0.011905
+Word: -0.09 Tag: CD 
+ MLE: 0.050847
+Word: Intel Tag: NNP 
+ MLE: 0.011905
+Word: INTC Tag: NNP 
+ MLE: 0.011905
+Word: +0.06 Tag: CD 
+ MLE: 0.016949
+Word: trade Tag: NN 
+ MLE: 0.011494
+Word: 60 Tag: CD 
+ MLE: 0.016949
+Word: capitalizations Tag: NNS 
+ MLE: 0.041667
+Word: Cisco Tag: NNP 
+ MLE: 0.011905
+Word: CSCO Tag: NNP 
+ MLE: 0.011905
+Word: +0.26 Tag: CD 
+ MLE: 0.016949
+Word: Yahoo Tag: NNP 
+ MLE: 0.011905
+Word: YHOO Tag: NNP 
+ MLE: 0.011905
+Word: -0.08 Tag: CD 
+ MLE: 0.033898
+Word: 40 Tag: CD 
+ MLE: 0.016949
+Word: Qualcomm Tag: NNP 
+ MLE: 0.011905
+Word: QCOM Tag: NNP 
+ MLE: 0.011905
+Word: -0.02 Tag: CD 
+ MLE: 0.016949
+Word: worth Tag: JJ 
+ MLE: 0.034483
+Word: slightly Tag: RB 
+ MLE: 0.035714
+Word: third Tag: NN 
+ MLE: 0.011494
+Word: what Tag: WP 
+ MLE: 1.000000
+Word: was Tag: VBD 
+ MLE: 0.083333
+Word: then Tag: RB 
+ MLE: 0.071429
+Word: WorldCom Tag: NNP 
+ MLE: 0.011905
+Word: ranked Tag: VBD 
+ MLE: 0.083333
+Word: fifth Tag: JJ 
+ MLE: 0.034483
+Word: vaporized Tag: VBD 
+ MLE: 0.083333
+Word: accounting Tag: NN 
+ MLE: 0.011494
+Word: scandals Tag: NNS 
+ MLE: 0.041667
+Word: remnants Tag: NNS 
+ MLE: 0.041667
+Word: were Tag: VBD 
+ MLE: 0.166667
+Word: acquired Tag: VBN 
+ MLE: 0.076923
+Word: by Tag: IN 
+ MLE: 0.050847
+Word: Verizon Tag: NNP 
+ MLE: 0.011905
+Word: VZ Tag: NNP 
+ MLE: 0.011905
+Word: +0.04 Tag: CD 
+ MLE: 0.016949
+Word: old Tag: JJ 
+ MLE: 0.034483
+Word: guard Tag: NN 
+ MLE: 0.011494
+Word: been Tag: VBN 
+ MLE: 0.230769
+Word: replaced Tag: VBN 
+ MLE: 0.076923
+Word: new Tag: JJ 
+ MLE: 0.034483
+Word: wave Tag: NN 
+ MLE: 0.011494
+Word: technology Tag: NN 
+ MLE: 0.034483
+Word: biotechnology Tag: NN 
+ MLE: 0.022989
+Word: powers Tag: NNS 
+ MLE: 0.041667
+Word: Apple Tag: NNP 
+ MLE: 0.023810
+Word: AAPL Tag: NNP 
+ MLE: 0.011905
+Word: -0.07 Tag: CD 
+ MLE: 0.016949
+Word: Amazon Tag: NNP 
+ MLE: 0.011905
+Word: AMZN Tag: NNP 
+ MLE: 0.011905
+Word: +0.08 Tag: CD 
+ MLE: 0.016949
+Word: Priceline Tag: NNP 
+ MLE: 0.011905
+Word: PCLN Tag: NNP 
+ MLE: 0.011905
+Word: -0.03 Tag: CD 
+ MLE: 0.016949
+Word: Starbucks Tag: NNP 
+ MLE: 0.011905
+Word: SBUX Tag: NNP 
+ MLE: 0.011905
+Word: -0.01 Tag: CD 
+ MLE: 0.016949
+Word: added Tag: VBD 
+ MLE: 0.083333
+Word: $ Tag: $ 
+ MLE: 1.000000
+Word: 1 Tag: CD 
+ MLE: 0.016949
+Word: trillion Tag: CD 
+ MLE: 0.033898
+Word: with Tag: IN 
+ MLE: 0.016949
+Word: alone Tag: RB 
+ MLE: 0.035714
+Word: contributing Tag: VBG 
+ MLE: 0.500000
+Word: astonishing Tag: JJ 
+ MLE: 0.034483
+Word: three-quarters Tag: NNS 
+ MLE: 0.041667
+Word: Companies Tag: NNS 
+ MLE: 0.041667
+Word: public Tag: JJ 
+ MLE: 0.034483
+Word: when Tag: WRB 
+ MLE: 1.000000
+Word: dot.com Tag: NN 
+ MLE: 0.011494
+Word: burst Tag: VBP 
+ MLE: 0.100000
+Word: Google Tag: NNP 
+ MLE: 0.011905
+Word: GOOG Tag: NNP 
+ MLE: 0.011905
+Word: Facebook Tag: NNP 
+ MLE: 0.011905
+Word: FB Tag: NNP 
+ MLE: 0.011905
+Word: Netflix Tag: NNP 
+ MLE: 0.011905
+Word: NFLX Tag: NNP 
+ MLE: 0.011905
+Word: +0.05 Tag: CD 
+ MLE: 0.016949
+Word: Tesla Tag: NNP 
+ MLE: 0.011905
+Word: Motors Tag: NNPS 
+ MLE: 0.500000
+Word: TSLA Tag: NNP 
+ MLE: 0.011905
+Word: have Tag: VBP 
+ MLE: 0.300000
+Word: created Tag: VBN 
+ MLE: 0.153846
+Word: 635 Tag: CD 
+ MLE: 0.016949
+Word: billion Tag: CD 
+ MLE: 0.033898
+Word: investors Tag: NNS 
+ MLE: 0.041667
+Word: Amgen Tag: NNP 
+ MLE: 0.011905
+Word: AMGN Tag: NNP 
+ MLE: 0.011905
+Word: +1.21 Tag: CD 
+ MLE: 0.016949
+Word: Biogen Tag: NNP 
+ MLE: 0.011905
+Word: Idec Tag: NNP 
+ MLE: 0.011905
+Word: BIIB Tag: NNP 
+ MLE: 0.011905
+Word: -0.24 Tag: CD 
+ MLE: 0.016949
+Word: Celgene Tag: NNP 
+ MLE: 0.011905
+Word: CELG Tag: NNP 
+ MLE: 0.011905
+Word: +0.03 Tag: CD 
+ MLE: 0.016949
+Word: Gilead Tag: NNP 
+ MLE: 0.011905
+Word: Sciences Tag: NNPS 
+ MLE: 0.500000
+Word: GILD Tag: NNP 
+ MLE: 0.011905
+Word: +0.11 Tag: CD 
+ MLE: 0.016949
+Word: tacked Tag: VBD 
+ MLE: 0.083333
+Word: on Tag: IN 
+ MLE: 0.016949
+Word: 315 Tag: CD 
+ MLE: 0.016949
+Word: Altogether Tag: RB 
+ MLE: 0.035714
+Word: 2 Tag: CD 
+ MLE: 0.016949
+Word: only Tag: RB 
+ MLE: 0.035714
+Word: 12 Tag: CD 
+ MLE: 0.016949
+Word: Biotech Tag: NNP 
+ MLE: 0.011905
+Word: fact Tag: NN 
+ MLE: 0.011494
+Word: bigger Tag: JJR 
+ MLE: 0.200000
+Word: winner Tag: NN 
+ MLE: 0.011494
+Word: itself Tag: PRP 
+ MLE: 0.090909
+Word: chart Tag: NN 
+ MLE: 0.011494
+Word: below Tag: IN 
+ MLE: 0.016949
+Word: shows Tag: NNS 
+ MLE: 0.041667
+Word: Since Tag: IN 
+ MLE: 0.016949
+Word: 2009 Tag: CD 
+ MLE: 0.016949
+Word: Biotechnology Tag: NNP 
+ MLE: 0.011905
+Word: soared Tag: VBN 
+ MLE: 0.076923
+Word: 484 Tag: CD 
+ MLE: 0.016949
+Word: sixfold Tag: JJ 
+ MLE: 0.034483
+Word: increase Tag: NN 
+ MLE: 0.011494
+Word: The Tag: DT 
+ MLE: 0.026316
+Word: First Tag: NNP 
+ MLE: 0.011905
+Word: Trust Tag: NNP 
+ MLE: 0.011905
+Word: 100 Tag: CD 
+ MLE: 0.033898
+Word: Tech Tag: NNP 
+ MLE: 0.011905
+Word: Sector Tag: NNP 
+ MLE: 0.011905
+Word: ETF Tag: NNP 
+ MLE: 0.011905
+Word: QTEC Tag: NN 
+ MLE: 0.011494
+Word: +1.48 Tag: CD 
+ MLE: 0.016949
+Word: tracks Tag: VBZ 
+ MLE: 0.055556
+Word: largest Tag: JJS 
+ MLE: 0.500000
+Word: stocks Tag: NNS 
+ MLE: 0.041667
+Word: gained Tag: VBN 
+ MLE: 0.076923
+Word: 324 Tag: CD 
+ MLE: 0.016949
+Word: during Tag: IN 
+ MLE: 0.016949
+Word: period Tag: NN 
+ MLE: 0.011494
+Word: while Tag: IN 
+ MLE: 0.016949
+Word: rallied Tag: VBD 
+ MLE: 0.083333
+Word: 300 Tag: CD 
+ MLE: 0.016949
+Word: Technology Tag: NNP 
+ MLE: 0.023810
+Word: health Tag: NN 
+ MLE: 0.011494
+Word: care Tag: NN 
+ MLE: 0.011494
+Word: my Tag: PRP 
+ MLE: 0.090909
+Word: two Tag: CD 
+ MLE: 0.016949
+Word: favorite Tag: JJ 
+ MLE: 0.034483
+Word: sectors Tag: NNS 
+ MLE: 0.041667
+Word: I Tag: PRP 
+ MLE: 0.090909
+Word: think Tag: VBP 
+ MLE: 0.100000
+Word: they Tag: PRP 
+ MLE: 0.045455
+Word: 're Tag: VBP 
+ MLE: 0.100000
+Word: both Tag: DT 
+ MLE: 0.052632
+Word: secular Tag: JJ 
+ MLE: 0.034483
+Word: long-term Tag: JJ 
+ MLE: 0.034483
+Word: bull Tag: NN markets MLE: 1.000000
+Word: like Tag: VBP 
+ MLE: 0.100000
+Word: Guggenheim Tag: NNP 
+ MLE: 0.023810
+Word: S&P Tag: NNP 
+ MLE: 0.023810
+Word: Equal Tag: NNP 
+ MLE: 0.023810
+Word: Weight Tag: NNP 
+ MLE: 0.023810
+Word: Health Tag: NNP 
+ MLE: 0.011905
+Word: Care Tag: NNP RYH MLE: 1.000000
+Word: +0.88 Tag: CD 
+ MLE: 0.016949
+Word: RYT Tag: NNP 
+ MLE: 0.011905
+Word: +1.07 Tag: CD 
+ MLE: 0.016949
+Word: ETFs Tag: VBZ 
+ MLE: 0.055556
+Word: own Tag: VBP 
+ MLE: 0.100000
+Word: retirement Tag: NN 
+ MLE: 0.011494
+Word: account Tag: NN 
+ MLE: 0.011494
