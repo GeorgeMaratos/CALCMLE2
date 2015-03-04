@@ -9,6 +9,8 @@ main(int argc,char **argv)
   char *buffer;
   FILE *f;
   wordTable ds;
+  wrdTable dT;
+  tagTable tT;
   if (argc != 2) {
     fprintf(stderr,"Improper number of arguments\n");
     return;
@@ -16,6 +18,8 @@ main(int argc,char **argv)
   else {
     f = fopen("trainingCorp.txt","r");
     ds = createStructure(MAXWORD);
-    populateStructure(ds,f,word,tag);
+    populateStructure(ds,f);
+    tT = getTagTable(ds);
+    dT = getWrdTable(ds);
   }
 } 

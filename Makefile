@@ -1,2 +1,2 @@
-make: main.c populate.c
-	gcc main.c populate.c -o hw2
+make: main.c populate.c calculate.c
+	gcc main.c populate.c calculate.c -o hw2
