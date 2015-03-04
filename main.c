@@ -5,7 +5,8 @@ void
 main(int argc,char **argv)
 {
   int i,j;
-  char word[WORDSIZE], tag[WORDSIZE];
+  char word[WORDSIZE] = {0}, tag[WORDSIZE] = {0};
+  char *buffer;
   FILE *f;
   wordTable ds;
   if (argc != 2) {
@@ -13,13 +14,8 @@ main(int argc,char **argv)
     return;
   }
   else {
-    f = fopen("trainingCorp.txt");
+    f = fopen("trainingCorp.txt","r");
     ds = createStructure(MAXWORD);
-    for (i=0;i<MAXWORD;i++) {
-      for (j=0;j<WORDSIZE;j++) {
-        word[j] = '\0';
-        tag[j] = '\0';
-      }
-    }
+    populateStructure(ds,f,word,tag);
   }
 } 
