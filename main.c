@@ -21,5 +21,6 @@ main(int argc,char **argv)
     populateStructure(ds,f);
     tT = getTagTable(ds);
     dT = getWrdTable(ds);
+    findMLE(ds,dT,tT);
   }
 } 

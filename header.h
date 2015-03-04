@@ -2,7 +2,7 @@
 #include<stdio.h>
 #include<string.h>
 
-#define DEBUG 1
+#define DEBUG 0
 #define MAXWORD 800
 #define WORDSIZE 20
 #define LINESIZE 100
@@ -47,3 +47,7 @@ wrdTable getWrdTable(wordTable);
 tagTable getTagTable(wordTable);
 void printWrdTable(wrdTable);
 void printTagTable(tagTable);
+
+//compute
+void findMLE(wordTable,wrdTable,tagTable);
+float calcMLE(wrdPtr,tagPtr,wordTable);
