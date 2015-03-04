@@ -3,7 +3,7 @@
 #include<string.h>
 
 #define DEBUG 1
-#define MAXWORD 500
+#define MAXWORD 800
 #define WORDSIZE 20
 #define LINESIZE 100
 
